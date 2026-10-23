@@ -8,8 +8,8 @@
 
 - `doc-cadernos-conhecimento-ses-df` (D04): v1.0 → v1.1 — passa a ser o lugar único dos
   cinco cadernos (CNES, SIGTAP, Carteira de serviços, Rede hospitalar, RENASES), trazidos
-  da pasta `cadernos/` do repositório privado da ferramenta da Carteira de Serviços; a
-  cópia automática no Drive passa a ler deste repositório
+  da pasta `cadernos/` do repositório privado da ferramenta da Carteira de Serviços; no
+  Drive do projeto fica só um índice de links (cópia automática diária desativada)
 - `sumario.md`: v3.18 → v3.19 — versão e descrição do D04; M01 v0.41 → v0.42
 
 ---
