@@ -1,3 +1,19 @@
+## v0.47 — 2026-10-23
+
+**Tipo:** feat (atualização D04)
+**Sessão:** Cadernos de conhecimento do projeto Carteira de Serviços — unificação do lugar dos cadernos
+**Arquivos alterados:** sumario.md v3.18 → v3.19
+
+### Alterações
+
+- `doc-cadernos-conhecimento-ses-df` (D04): v1.0 → v1.1 — passa a ser o lugar único dos
+  cinco cadernos (CNES, SIGTAP, Carteira de serviços, Rede hospitalar, RENASES), trazidos
+  da pasta `cadernos/` do repositório privado da ferramenta da Carteira de Serviços; a
+  cópia automática no Drive passa a ler deste repositório
+- `sumario.md`: v3.18 → v3.19 — versão e descrição do D04; M01 v0.41 → v0.42
+
+---
+
 ## v0.46 — 2026-10-23
 
 **Tipo:** feat (OP-A criação D04 + atualização D01)

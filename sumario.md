@@ -1,6 +1,6 @@
 # Sumário do Ecossistema DTD/SETIS
 
-**Versão:** v3.18 — 2026-10-23
+**Versão:** v3.19 — 2026-10-23
 **Repositório âncora:** hub-fonte
 **Mantenedor:** victorarimatea
 
@@ -18,7 +18,7 @@
 
 | ID | Nome | Versão | Descrição |
 |---|---|---|---|
-| M01 | hub-fonte | v0.41 | Âncora: sumário, nomenclatura, glossário, contexto, protocolo de atualizações, histórico de ações |
+| M01 | hub-fonte | v0.42 | Âncora: sumário, nomenclatura, glossário, contexto, protocolo de atualizações, histórico de ações |
 | M02 | mat-saude-digital-taxonomia | v1.1 | Taxonomia estruturada de saúde digital |
 
 ### Skills (S)
@@ -41,7 +41,7 @@
 | D01 | doc-governanca-ses-df | v1.2 | Transcrições estruturadas em Markdown de legislações, portarias, resoluções, referências internacionais, instrumentos de planejamento e documentos técnicos — 33 documentos (inclui a base normativa da RENASES) |
 | D02 | mat-cadastro-ses-setis-dtd | v1.0 | Matriz de Cadastros de referência validada para uso interno da DTD/SETIS/SES-DF |
 | D03 | hub-aprendizagem | v1.4 | Repositório documental reflexivo — boas práticas, benchmarks e lições aprendidas da construção do ecossistema DTD/SETIS |
-| D04 | doc-cadernos-conhecimento-ses-df | v1.0 | Cadernos de conhecimento para gestores da rede hospitalar da SES-DF (projeto Carteira de Serviços/CICS) — modelo de caderno, vocabulário controlado e cadernos por tema; primeiro caderno: RENASES (rascunho) |
+| D04 | doc-cadernos-conhecimento-ses-df | v1.1 | Cadernos de conhecimento para gestores da rede hospitalar da SES-DF (projeto Carteira de Serviços/CICS) — lugar único dos cadernos (CNES, SIGTAP, Carteira de serviços, Rede hospitalar, RENASES), modelo de caderno e vocabulário controlado; cópia automática no Drive |
 
 ### Workflows (W)
 
