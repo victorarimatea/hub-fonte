@@ -12,7 +12,7 @@
 
 | ID | Nome | Versão | Descrição |
 |---|---|---|---|
-| — | hub-entrada | v2.1 | Porta de entrada pública: MANIFESTO, ROADMAP, CHANGELOG, DECISOES, PROTOCOLO-SESSAO (ritos de sessão), monitoramento de projetos |
+| — | hub-entrada | v2.3 | Porta de entrada pública: MANIFESTO, ROADMAP, CHANGELOG, DECISOES, PROTOCOLO-SESSAO (ritos de sessão), monitoramento de projetos |
 
 ### Matrizes (M)
 

@@ -14,7 +14,8 @@
   7.508/2011, Portaria GM/MS 841/2012, Resolução CIT 2/2012 e Informe CIT RENASES
   2012; nova categoria `08-documentos-tecnicos`; total 29 → 33 documentos
 - `sumario.md`: v3.17 → v3.18 — D04 incluído (tabela de Documentos e links rápidos);
-  versão e descrição do D01 atualizadas; M01 v0.40 → v0.41
+  versão e descrição do D01 atualizadas; M01 v0.40 → v0.41; hub-entrada v2.1 → v2.3
+  (o sumário estava defasado em v2.1; a v2.2 não havia sido registrada)
 - `CONTEXTO.md`: v3.13 → v3.14 — D04 incluído; descrição do D01 atualizada
 
 ### Observações para auditoria (não defeitos desta sessão)
