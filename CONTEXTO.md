@@ -1,6 +1,6 @@
 # CONTEXTO.md — Ecossistema DTD/SETIS
 
-**Versão:** v3.13 — 2026-06-21
+**Versão:** v3.14 — 2026-10-23
 **Mantenedor:** victorarimatea
 **Propósito:** Briefing estrutural para inicialização de sessões de trabalho.
 Leia este arquivo antes de qualquer ação. Para onboarding externo, leia ONBOARDING.md.
@@ -95,9 +95,10 @@ com mínima intervenção manual do mantenedor.
 
 | ID | Nome | Descrição |
 |---|---|---|
-| D01 | doc-governanca-ses-df | 29 documentos transcritos: legislação, portarias, resoluções, referências internacionais e instrumentos de planejamento |
+| D01 | doc-governanca-ses-df | 33 documentos transcritos: legislação, portarias, resoluções, referências internacionais, instrumentos de planejamento e documentos técnicos |
 | D02 | mat-cadastro-ses-setis-dtd | Matriz de cadastros de referência da DTD/SETIS/SES-DF |
 | D03 | hub-aprendizagem | Repositório documental reflexivo — boas práticas, benchmarks e lições aprendidas da construção do ecossistema DTD/SETIS |
+| D04 | doc-cadernos-conhecimento-ses-df | Cadernos de conhecimento para gestores da rede hospitalar da SES-DF — modelo de caderno, vocabulário controlado e cadernos por tema; consome as normas do D01 sem cópia |
 
 ### Workflows (W) — memória organizacional de processos
 

@@ -1,3 +1,31 @@
+## v0.46 — 2026-10-23
+
+**Tipo:** feat (OP-A criação D04 + atualização D01)
+**Sessão:** Cadernos de conhecimento do projeto Carteira de Serviços (CICS/SES-DF) — criação do repositório de cadernos e registro da base normativa da RENASES no D01
+**Arquivos alterados:** sumario.md v3.17 → v3.18; CONTEXTO.md v3.13 → v3.14
+
+### Alterações
+
+- `doc-cadernos-conhecimento-ses-df` (D04): **criado em v1.0** (público) — modelo de
+  caderno de conhecimento v1.0, vocabulário controlado (rascunho) e primeiro caderno
+  (RENASES v0.2 + dossiê de estudo); consome as normas transcritas do D01 por link,
+  sem cópia
+- `doc-governanca-ses-df` (D01): v1.1 → v1.2 (publicado em 2026-10-22) — Decreto
+  7.508/2011, Portaria GM/MS 841/2012, Resolução CIT 2/2012 e Informe CIT RENASES
+  2012; nova categoria `08-documentos-tecnicos`; total 29 → 33 documentos
+- `sumario.md`: v3.17 → v3.18 — D04 incluído (tabela de Documentos e links rápidos);
+  versão e descrição do D01 atualizadas; M01 v0.40 → v0.41
+- `CONTEXTO.md`: v3.13 → v3.14 — D04 incluído; descrição do D01 atualizada
+
+### Observações para auditoria (não defeitos desta sessão)
+
+- A atualização do D01 para v1.2 foi publicada em 2026-10-22 sem o registro
+  correspondente no hub-fonte; este registro fecha essa defasagem.
+- O repositório D04 foi criado manualmente pelo mantenedor (vazio) e preenchido pela
+  sessão, porque a sessão não tem permissão para criar repositórios.
+
+---
+
 ## v0.44 — 2026-06-21
 
 **Tipo:** feat (atualização S05 + adição D01)
