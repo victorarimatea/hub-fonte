@@ -1,3 +1,31 @@
+## v0.48 — 2026-10-26
+
+**Tipo:** feat (atualização D01 e D04)
+**Sessão:** Cadernos de conhecimento do projeto Carteira de Serviços — alinhamento dos registros após as entregas de 24 a 26/10/2026
+**Arquivos alterados:** sumario.md v3.19 → v3.20; CONTEXTO.md v3.14 → v3.15
+
+### Alterações
+
+- `doc-governanca-ses-df` (D01): v1.2 → v1.8 (24 a 26/10/2026, sessão do caderno CNES) —
+  Portaria de Consolidação GM/MS 1/2017; normas distritais do guia dos diretores
+  hospitalares (18); Portaria SAS/MS 118/2014 nas redações original e republicada;
+  Portaria de Consolidação SAES/MS 1/2022; Resolução de Consolidação CIT 1/2021;
+  portarias de origem do CNES; total 33 → 59 documentos
+- `doc-cadernos-conhecimento-ses-df` (D04): v1.1 → v1.4 — modelo de caderno v1.2
+  (base normativa em dois blocos; detalhe recolhível em teste); caderno de CNES v1.0
+  aprovado; caderno de RENASES v1.1 aprovado
+- `sumario.md`: v3.19 → v3.20 — versões e descrição do D01 e versão do D04; M01 v0.42 → v0.43
+- `CONTEXTO.md`: v3.14 → v3.15 — descrição do D01
+
+### Observações para auditoria (não defeitos desta sessão)
+
+- As versões v1.3 a v1.8 do D01 e v1.2 a v1.3 do D04 foram publicadas sem o registro
+  correspondente no hub-fonte; este registro fecha a defasagem.
+- A linha de versão do README do D01 estava em v1.4 (o backlog do próprio repositório
+  já ia até v1.8); corrigida no D01 em 26/10/2026.
+
+---
+
 ## v0.47 — 2026-10-23
 
 **Tipo:** feat (atualização D04)
