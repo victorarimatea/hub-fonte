@@ -1,3 +1,25 @@
+## v0.49 — 2026-11-06
+
+**Tipo:** feat (atualização D01)
+**Sessão:** Plano Distrital de Saúde 2024-2027 — transcrição da versão vigente e comparação de versões
+**Arquivos alterados:** sumario.md v3.20 → v3.21; CONTEXTO.md v3.15 → v3.16
+
+### Alterações
+
+- `doc-governanca-ses-df` (D01): v1.8 → v1.10.2 (06/11/2026):
+  - v1.9: transcrição do rascunho de março de 2025 do PDS 2024-2027;
+  - v1.10: transcrição da Revisão 2/2025 (versão vigente publicada, 231 páginas); nota comparativa de versões, com as propostas do Catálogo de Indicadores – Revisão 2026; rascunho de março marcado como substituído; problema P17 no WORKFLOW;
+  - v1.10.1: a versão de maio de 2025 entrou no comparativo como versão intermediária;
+  - v1.10.2: correção da contagem de documentos.
+- `sumario.md`: v3.20 → v3.21 — versão e descrição do D01; M01 v0.43 → v0.44
+- `CONTEXTO.md`: v3.15 → v3.16 — descrição do D01
+
+### Observações para auditoria (não defeitos desta sessão)
+
+- A contagem de documentos do D01 estava uma unidade acima do real desde antes da v1.9. O README dava 18 documentos à Fase 1, que tem 17. O "59 documentos" registrado aqui em 26/10/2026 (v0.48) correspondia a 58. Corrigido no D01 v1.10.2: são 60 documentos e 1 nota comparativa.
+
+---
+
 ## v0.48 — 2026-10-26
 
 **Tipo:** feat (atualização D01 e D04)
