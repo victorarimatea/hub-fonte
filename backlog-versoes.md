@@ -1,3 +1,23 @@
+## v0.50 — 2026-11-07
+
+**Tipo:** feat (novo projeto P03)
+**Sessão:** Guia prático "Cuidar, Decidir, Conduzir" — S006, migração para o padrão da skill estruturacao-projetos v0.1
+**Arquivos alterados:** sumario.md v3.21 → v3.22; CONTEXTO.md v3.16 → v3.17
+
+### Alterações
+
+- `prj-guia-cuidar-decidir-conduzir` (P03) registrado: v0.2, `em_execucao`, privado. Autorização explícita do mantenedor em 2026-11-07 (decisão D014 do projeto).
+- `sumario.md`: linha do P03 nas tabelas de Projetos e de Links rápidos; M01 v0.44 → v0.45.
+- `CONTEXTO.md`: linha do P03 na tabela de Projetos.
+
+### Observações para auditoria
+
+- Primeiro projeto conduzido com fonte de verdade no Google Drive (pasta do projeto, painel de controle em planilha e Docs README/ESTADO); o repositório GitHub recebe réplica a cada fechamento de versão. A estrutura interna difere da seção 4-A do `nomenclatura.md` (projetos tipo P): o alinhamento do padrão fica para depois da v1.0 da skill estruturacao-projetos, com nova autorização.
+- O código P02 já pertence ao `hub-memoria`; o guia recebeu P03 (o projeto chegou a citar "P02 proposto" antes da conferência).
+- `hub-entrada/projetos/monitoramento.md` não foi alterado (depende de autorização explícita).
+
+---
+
 ## v0.49 — 2026-11-06
 
 **Tipo:** feat (atualização D01)

@@ -1,6 +1,6 @@
 # Sumário do Ecossistema DTD/SETIS
 
-**Versão:** v3.21 — 2026-11-06
+**Versão:** v3.22 — 2026-11-07
 **Repositório âncora:** hub-fonte
 **Mantenedor:** victorarimatea
 
@@ -18,7 +18,7 @@
 
 | ID | Nome | Versão | Descrição |
 |---|---|---|---|
-| M01 | hub-fonte | v0.44 | Âncora: sumário, nomenclatura, glossário, contexto, protocolo de atualizações, histórico de ações |
+| M01 | hub-fonte | v0.45 | Âncora: sumário, nomenclatura, glossário, contexto, protocolo de atualizações, histórico de ações |
 | M02 | mat-saude-digital-taxonomia | v1.1 | Taxonomia estruturada de saúde digital |
 
 ### Skills (S)
@@ -66,6 +66,7 @@
 |---|---|---|---|---|
 | P01 | prj-telessaude-poc-prisional | v0.1 | em_execucao | PoC de totem de telemedicina multiparâmetros no Sistema Prisional do DF — DTD/SETIS/SES-DF |
 | P02 | hub-memoria | v0.5 | em_execucao | Projeto do Ecossistema — preserva história da construção, decisões de design e relatórios de sessão (privado) |
+| P03 | prj-guia-cuidar-decidir-conduzir | v0.2 | em_execucao | Guia prático "Cuidar, Decidir, Conduzir" — primeiros dias do médico na RDHP/SES-DF; revisão SEGHOSP/CICS. Fonte de verdade: Google Drive; GitHub é réplica por marco (privado) |
 
 ---
 
@@ -106,3 +107,4 @@
 | A01 | agd-dtd | Agenda | Privado | https://github.com/victorarimatea/agd-dtd |
 | P01 | prj-telessaude-poc-prisional | Projeto | Privado | https://github.com/victorarimatea/prj-telessaude-poc-prisional |
 | P02 | hub-memoria | Projeto | Privado | https://github.com/victorarimatea/hub-memoria |
+| P03 | prj-guia-cuidar-decidir-conduzir | Projeto | Privado | https://github.com/victorarimatea/prj-guia-cuidar-decidir-conduzir |

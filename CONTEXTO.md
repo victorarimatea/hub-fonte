@@ -1,6 +1,6 @@
 # CONTEXTO.md — Ecossistema DTD/SETIS
 
-**Versão:** v3.16 — 2026-11-06
+**Versão:** v3.17 — 2026-11-07
 **Mantenedor:** victorarimatea
 **Propósito:** Briefing estrutural para inicialização de sessões de trabalho.
 Leia este arquivo antes de qualquer ação. Para onboarding externo, leia ONBOARDING.md.
@@ -123,6 +123,7 @@ com mínima intervenção manual do mantenedor.
 |---|---|---|---|
 | P01 | prj-telessaude-poc-prisional | em_execucao | PoC de totem de telemedicina no Sistema Prisional do DF (privado) |
 | P02 | hub-memoria | em_execucao | Memória viva da construção do próprio ecossistema (privado) |
+| P03 | prj-guia-cuidar-decidir-conduzir | em_execucao | Guia prático "Cuidar, Decidir, Conduzir" (RDHP/SES-DF); fonte de verdade no Google Drive, GitHub como réplica por marco (privado) |
 
 ---
 
